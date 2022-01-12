@@ -1,6 +1,8 @@
 # Covid19-CT-ImageSegmentation
 
-The model has created to solve the COVID19 CT scan Image segmentation task. Here I have used the Padded Convnet UNET (Input: 3x3x3, output: 3x3xno_classes) architecture for training.
+The model has created to solve the COVID19 CT scan (Human Lungs) Image segmentation task. Here I have used the Padded Convnet UNET (Input: 3x3x3, output: 3x3xno_classes) architecture for training.
+
+The kaggle dataset: https://www.kaggle.com/c/covid-segmentation
 
 The Result I got after the training are.
 
