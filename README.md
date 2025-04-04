@@ -21,5 +21,5 @@ The Result I got after the training are.
 
 Sections are: {original, labeles, prediction}
 
-![Screenshot (95)](https://github.com/user-attachments/assets/0c96412d-8c31-4fcf-8eb5-3a16b3a7d006)
 
+![Screenshot (95)](https://github.com/user-attachments/assets/860fd275-19c8-4031-8d7f-838dcc48b6ef)
