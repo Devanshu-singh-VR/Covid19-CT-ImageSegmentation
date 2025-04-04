@@ -4,10 +4,6 @@ The model has created to solve the COVID19 CT scan (Human Lungs) Image segmentat
 
 The kaggle dataset: https://www.kaggle.com/c/covid-segmentation
 
-The Result I got after the training are.
-
-Sections are: {original, labeles, prediction}
-
 # Loss and Accuracy Polts 
 
 Used 200+ Images for training and 60+ for testing 
@@ -20,6 +16,11 @@ I used the data augmentation with albumentation to increase the number of traini
 ![Screenshot (94)](https://github.com/user-attachments/assets/ef9f2f2a-bd13-4b75-93f1-8d706da1b68e)
 
 # Results
+
+The Result I got after the training are.
+
+Sections are: {original, labeles, prediction}
+
 111...............
 
 ![Original](https://user-images.githubusercontent.com/75822824/149130504-bb95baca-843c-49e4-b0e0-d6a36dd302cc.png)
